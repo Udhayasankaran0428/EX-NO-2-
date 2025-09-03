@@ -212,3 +212,6 @@ int main()
 
 ## OUTPUT:
 <img width="373" height="236" alt="image" src="https://github.com/user-attachments/assets/1ad929d8-545d-4d76-a5aa-4d81e669385f" />
+
+## RESULT:
+The program is executed successfully
